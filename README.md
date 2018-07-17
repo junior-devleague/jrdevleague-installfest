@@ -6,7 +6,7 @@ Setting up Environment for start of the school year
   2. Click on sign up
   3. Type username
   4. Type Email
-  5. Password**REMEMBER YOUR PASSWORD**
+  5. Password **REMEMBER YOUR PASSWORD**
   6. Choose Unlimited Plan
 
 ## Git
