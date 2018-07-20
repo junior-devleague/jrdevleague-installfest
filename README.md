@@ -16,7 +16,7 @@ Setting up Environment for start of the school year
   
 ## Node
   1. Install node https://nodejs.org/en/download/
-  2. Npm live-server
+  2. Npm install live-server -g
 
 ## VSCode
   - Install Windows or Mac https://code.visualstudio.com/
