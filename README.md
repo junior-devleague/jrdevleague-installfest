@@ -9,6 +9,9 @@ Setting up Environment for start of the school year
   5. Password **REMEMBER YOUR PASSWORD**
   6. Choose Unlimited Plan
 
+## Set Up SSH Keys
+  https://github.com/junior-devleague/jrdevleague-installfest/blob/master/README.md
+
 ## Git
   1. Install Git https://git-scm.com/downloads
   2. $ git config --global user.name "Mona Lisa"
