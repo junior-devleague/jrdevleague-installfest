@@ -10,7 +10,7 @@ Setting up Environment for start of the school year
   6. Choose Unlimited Plan
 
 ## Set Up SSH Keys
-  https://github.com/junior-devleague/jrdevleague-installfest/blob/master/README.md
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
 ## Git
   1. Install Git https://git-scm.com/downloads
