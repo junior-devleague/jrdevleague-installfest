@@ -16,10 +16,6 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
   1. Install Git https://git-scm.com/downloads
   2. $ git config --global user.name "Mona Lisa"
   3. $ git config --global user.email "email@example.com" 
-  
-## Node
-  1. Install node https://nodejs.org/en/download/
-  2. Npm install live-server -g
 
 ## VSCode
   - Install Windows or Mac https://code.visualstudio.com/
@@ -27,4 +23,9 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
     1. Command + shift + p
     2. Install code command path
   - **Set up git-bash with integrated terminal in VScode**
+    - Go into settings and search for "terminal.integrated.shell.windows"
     - "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
+    
+## Node
+  1. Install node https://nodejs.org/en/download/
+  2. Npm install live-server -g
