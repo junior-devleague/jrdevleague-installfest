@@ -30,7 +30,7 @@ Setting up Environment for start of the school year
   ### Adding your SSH key to ssh-agent
   1. Start the ssh-agent in the background.
   ```
-  eval "$(ssh-agent -s)"
+  eval $(ssh-agent -s)
   ```
   - On Mac
   ```
